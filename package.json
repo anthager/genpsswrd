@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthager/genpsswrd"
+  },
   "author": {
     "name": "anthager",
     "email": "hej@anton.pizza",
