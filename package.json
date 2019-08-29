@@ -12,6 +12,32 @@
     "email": "hej@anton.pizza",
     "url": "https://anton.pizza"
   },
+  "contributors": [
+    {
+      "name": "anthager",
+      "email": "hej@anton.pizza",
+      "url": "https://anton.pizza"
+    },
+    {
+      "name": "anthager",
+      "email": "hej@anton.pizza",
+      "url": "https://anton.pizza"
+    },
+    {
+      "name": "anthager",
+      "email": "hej@anton.pizza",
+      "url": "https://anton.pizza"
+    },
+    {
+      "name": "anthager",
+      "email": "hej@anton.pizza",
+      "url": "https://anton.pizza"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/anthager/genpsswrd/issues",
+    "email": "hej@anton.pizza"
+  },
   "devDependencies": {
     "eslint": "^6.2.2",
     "eslint-config-prettier": "^6.1.0",
